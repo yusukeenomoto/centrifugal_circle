@@ -9,6 +9,14 @@ This Processing sketch visualizes a solid circle being torn apart by centrifugal
 4. **Interaction**: Click the screen to trigger the "centrifugation" process or reset.
 
 ## How to run
+
+### Ephemeral Bubbles
 ```bash
-processing --run /home/eeenoooo/processing_art/centrifugal_circle/centrifugal_circle.pde
+# Open in Processing IDE or run via CLI
+processing --run /home/eeenoooo/processing_art/driptrip/ephemeral_bubbles/ephemeral_bubbles.pde
+```
+
+### Centrifugal Shatter
+```bash
+processing --run /home/eeenoooo/processing_art/driptrip/centrifugal_shatter/centrifugal_shatter.pde
 ```
